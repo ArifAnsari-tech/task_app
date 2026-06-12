@@ -41,31 +41,7 @@ https://dummyjson.com/products
 -> dio
 -> shared_preferences
 
-## Setup Instructions
 
-1. Clone Repository
-
-```bash
-git clone <repository-url>
-```
-
-2. Open Project
-
-```bash
-cd task_app
-```
-
-3. Install Dependencies
-
-```bash
-flutter pub get
-```
-
-4. Run Application
-
-```bash
-flutter run
-```
 
 ## Functionality
 
@@ -92,6 +68,17 @@ Displays detailed information of selected product.
 ### Wishlist
 
 Users can add/remove products from wishlist. Wishlist data is stored locally using SharedPreferences.
+
+### DSA Solutions:
+- Two Sum Variant
+- Longest Substring Without Repeating Characters
+
+### Practical Questions:
+- API Call and List Display
+- Pagination
+- Debounce Function
+- Reverse String
+- Duplicate Elements
 
 ## Author
 
