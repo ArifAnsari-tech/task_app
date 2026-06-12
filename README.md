@@ -37,6 +37,7 @@ https://dummyjson.com/products
 
 ## Dependencies
 
+-> flutter
 -> provider
 -> dio
 -> shared_preferences
