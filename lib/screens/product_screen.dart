@@ -11,6 +11,8 @@ class ProductScreen extends StatefulWidget {
 }
 
 class _ProductScreenState extends State<ProductScreen> {
+
+  /// pagination implemented
   final ScrollController scrollController = ScrollController();
 
   @override
